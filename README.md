@@ -16,4 +16,4 @@ This repository showcases a variety of mini-games implemented using the Python T
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/sukhbir77/Turtle_Mini_Games.git
+   git clone https://github.com/sukhbir77/mini-games-python.git
